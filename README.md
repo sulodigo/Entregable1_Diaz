@@ -1,5 +1,5 @@
 # Entregable1_Diaz
-EJERCICIOS 1°
+EJERCICIO 1°
 1. Documento HTML.
 2. Archivo JavaScript referenciado en HTML.
 3. Declarar variables, constantes y arrays.
